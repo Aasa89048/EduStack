@@ -1,0 +1,15 @@
+{
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/courses/cse101/[material]/page": "/courses/cse101/[material]",
+  "/courses/cse101/page": "/courses/cse101",
+  "/courses/page": "/courses",
+  "/exams/cse101/[paper]/page": "/exams/cse101/[paper]",
+  "/exams/cse101/page": "/exams/cse101",
+  "/exams/page": "/exams",
+  "/login/page": "/login",
+  "/page": "/",
+  "/profile/page": "/profile",
+  "/register/page": "/register",
+  "/settings/page": "/settings"
+}
