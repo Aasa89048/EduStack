@@ -7,7 +7,7 @@ export default function LoginPage() {
       <section className="auth-page" aria-label="Login">
         <aside className="auth-visual">
           <div className="auth-visual-head">
-            <h1>Continue to your study materials and practicing exams.</h1>
+            <h1>Continue  to your study materials and practicing exams.</h1>
             <p>Access notes, slides, and practicing exams anywhere.</p>
           </div>
 
