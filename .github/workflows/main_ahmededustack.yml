@@ -38,7 +38,7 @@ jobs:
           cp package.json deploy/package.json
           cp package-lock.json deploy/package-lock.json
           cd deploy
-          npm ci --omit=dev
+          npm ci 
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
