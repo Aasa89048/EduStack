@@ -32,15 +32,16 @@ jobs:
       - name: Build Next.js app
         run: npm run build
 
-      - name: Prepare deployment package
-        run: |
-          mkdir deploy
-          cp -r .next deploy/.next
-          cp -r public deploy/public || true
-          cp -r app deploy/app || true
-          cp package.json deploy/package.json
-          cp package-lock.json deploy/package-lock.json
-          cp next.config.mjs deploy/next.config.mjs || true
+     - name: Prepare deployment package
+  run: |
+    mkdir deploy
+    cp -r .next deploy/.next
+    cp -r public deploy/public || true
+    cp next.config.mjs deploy/next.config.mjs || true
+    cp package.json deploy/package.json
+    cp package-lock.json deploy/package-lock.json
+    cd deploy
+    npm ci --omit=dev   # install only production deps inside deploy folder
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
