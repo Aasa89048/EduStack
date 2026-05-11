@@ -19,7 +19,7 @@ const program = [
   {
     year: 2,
     courses: [
-      { title: "Object Oriented Programming", code: "CSE201", materials: "13 slides", videos: "9 videos" },
+      { title: "Object Oriented Programmingg", code: "CSE201", materials: "13 slides", videos: "9 videos" },
       { title: "Database Management Systems", code: "CSE202", materials: "15 slides", videos: "11 videos" },
       { title: "Discrete Mathematics", code: "CSE203", materials: "10 slides", videos: "7 videos" },
       { title: "Operating Systems", code: "CSE204", materials: "14 slides", videos: "10 videos" },
