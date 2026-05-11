@@ -42,11 +42,11 @@ jobs:
         with:
           name: node-app
       
-      - name: Login to Azure
+      - name: Azure Login
         uses: azure/login@v2
         with:
           client-id: ${{ secrets.AZUREAPPSERVICE_CLIENTID_D1B4DD20C0FD4382ACE6F729F3BD3D71 }}
-          tenant-id: ${{ secrets.AZUREAPPSERVICE_TENANTID_0261FA76F45E4636940C9178BC06A6A4 }}
+          tenant-id: ${{ secrets.AZUREAPPSERVICE_TENANTID_XXXXX }}
           subscription-id: ${{ secrets.AZUREAPPSERVICE_SUBSCRIPTIONID_426F168695194111BBCBF0744D3E9D3A }}
 
       - name: 'Deploy to Azure Web App'
