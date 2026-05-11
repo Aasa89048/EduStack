@@ -9,7 +9,7 @@ const program = [
   {
     year: 1,
     courses: [
-      { title: "Engineering Mathematics", code: "CSE101", materials: "23 slides", videos: "15 videos" },
+      { title: "Engineering Mathematicss", code: "CSE101", materials: "23 slides", videos: "15 videos" },
       { title: "Programming in C", code: "CSE102", materials: "14 slides", videos: "10 videos" },
       { title: "Digital Logic Design", code: "CSE103", materials: "9 slides", videos: "6 videos" },
       { title: "Data Structures", code: "CSE104", materials: "16 slides", videos: "12 videos" },
