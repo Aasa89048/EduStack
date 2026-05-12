@@ -13,9 +13,10 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Deploy to Azure Web App
+      - name: Deploy to Azure Web App Staging Slot
         uses: azure/webapps-deploy@v3
         with:
           app-name: AhmedEduStack
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE }}
+          slot-name: staging
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_STAGING }}
           package: .
