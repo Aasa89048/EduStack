@@ -34,6 +34,7 @@ jobs:
           cp next.config.mjs deploy/next.config.mjs || true
           cp package.json deploy/package.json
           cp package-lock.json deploy/package-lock.json
+          echo '{}' > deploy/oryx-manifest.toml
           cd deploy
           npm ci
 
