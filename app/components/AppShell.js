@@ -2,7 +2,6 @@
 
 import {
   CalendarCheck,
-  GraduationCap,
   LibraryBig,
   LogOut,
   Settings,
@@ -25,10 +24,10 @@ export default function AppShell({ children }) {
       <aside className="sidebar glass-panel" aria-label="Main navigation">
         <Link className="brand" href="/courses">
           <span className="brand-mark">
-            <GraduationCap size={24} aria-hidden="true" />
+            <span className="brand-initials">LPU</span>
           </span>
           <span>
-            <strong>Ahmed Abdalrahman</strong>
+            <strong>Lovely Professional University</strong>
             <small>B.Tech CSE</small>
           </span>
         </Link>

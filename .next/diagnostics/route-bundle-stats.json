@@ -1,11 +1,11 @@
 [
   {
     "route": "/courses",
-    "firstLoadUncompressedJsBytes": 531059,
+    "firstLoadUncompressedJsBytes": 530824,
     "firstLoadChunkPaths": [
       ".next\\static\\chunks\\01xlw8hd842-c.js",
       ".next\\static\\chunks\\0d3shmwh5_nmn.js",
-      ".next\\static\\chunks\\0fjbpauv7i1r9.js",
+      ".next\\static\\chunks\\0l0px823hgfgx.js",
       ".next\\static\\chunks\\00gq-v0e07i1q.js",
       ".next\\static\\chunks\\0pqt~8bl3ukh4.js",
       ".next\\static\\chunks\\0c5_hmud9~ldz.js",
@@ -15,11 +15,11 @@
   },
   {
     "route": "/exams",
-    "firstLoadUncompressedJsBytes": 530252,
+    "firstLoadUncompressedJsBytes": 530016,
     "firstLoadChunkPaths": [
       ".next\\static\\chunks\\01xlw8hd842-c.js",
       ".next\\static\\chunks\\0d3shmwh5_nmn.js",
-      ".next\\static\\chunks\\0rigt~xnqnh85.js",
+      ".next\\static\\chunks\\0d.yr6tpj49n6.js",
       ".next\\static\\chunks\\00gq-v0e07i1q.js",
       ".next\\static\\chunks\\0pqt~8bl3ukh4.js",
       ".next\\static\\chunks\\0c5_hmud9~ldz.js",
@@ -29,11 +29,11 @@
   },
   {
     "route": "/courses/cse101",
-    "firstLoadUncompressedJsBytes": 525237,
+    "firstLoadUncompressedJsBytes": 525001,
     "firstLoadChunkPaths": [
       ".next\\static\\chunks\\01xlw8hd842-c.js",
       ".next\\static\\chunks\\0d3shmwh5_nmn.js",
-      ".next\\static\\chunks\\0c87fe1sh64bt.js",
+      ".next\\static\\chunks\\073sk.z4owrk5.js",
       ".next\\static\\chunks\\00gq-v0e07i1q.js",
       ".next\\static\\chunks\\0pqt~8bl3ukh4.js",
       ".next\\static\\chunks\\0c5_hmud9~ldz.js",
@@ -43,11 +43,11 @@
   },
   {
     "route": "/courses/cse101/[material]",
-    "firstLoadUncompressedJsBytes": 525237,
+    "firstLoadUncompressedJsBytes": 525001,
     "firstLoadChunkPaths": [
       ".next\\static\\chunks\\01xlw8hd842-c.js",
       ".next\\static\\chunks\\0d3shmwh5_nmn.js",
-      ".next\\static\\chunks\\0c87fe1sh64bt.js",
+      ".next\\static\\chunks\\073sk.z4owrk5.js",
       ".next\\static\\chunks\\00gq-v0e07i1q.js",
       ".next\\static\\chunks\\0pqt~8bl3ukh4.js",
       ".next\\static\\chunks\\0c5_hmud9~ldz.js",
@@ -57,11 +57,11 @@
   },
   {
     "route": "/exams/cse101",
-    "firstLoadUncompressedJsBytes": 525237,
+    "firstLoadUncompressedJsBytes": 525001,
     "firstLoadChunkPaths": [
       ".next\\static\\chunks\\01xlw8hd842-c.js",
       ".next\\static\\chunks\\0d3shmwh5_nmn.js",
-      ".next\\static\\chunks\\0c87fe1sh64bt.js",
+      ".next\\static\\chunks\\073sk.z4owrk5.js",
       ".next\\static\\chunks\\00gq-v0e07i1q.js",
       ".next\\static\\chunks\\0pqt~8bl3ukh4.js",
       ".next\\static\\chunks\\0c5_hmud9~ldz.js",
@@ -71,11 +71,11 @@
   },
   {
     "route": "/exams/cse101/[paper]",
-    "firstLoadUncompressedJsBytes": 525237,
+    "firstLoadUncompressedJsBytes": 525001,
     "firstLoadChunkPaths": [
       ".next\\static\\chunks\\01xlw8hd842-c.js",
       ".next\\static\\chunks\\0d3shmwh5_nmn.js",
-      ".next\\static\\chunks\\0c87fe1sh64bt.js",
+      ".next\\static\\chunks\\073sk.z4owrk5.js",
       ".next\\static\\chunks\\00gq-v0e07i1q.js",
       ".next\\static\\chunks\\0pqt~8bl3ukh4.js",
       ".next\\static\\chunks\\0c5_hmud9~ldz.js",
@@ -85,11 +85,11 @@
   },
   {
     "route": "/profile",
-    "firstLoadUncompressedJsBytes": 525237,
+    "firstLoadUncompressedJsBytes": 525001,
     "firstLoadChunkPaths": [
       ".next\\static\\chunks\\01xlw8hd842-c.js",
       ".next\\static\\chunks\\0d3shmwh5_nmn.js",
-      ".next\\static\\chunks\\0c87fe1sh64bt.js",
+      ".next\\static\\chunks\\073sk.z4owrk5.js",
       ".next\\static\\chunks\\00gq-v0e07i1q.js",
       ".next\\static\\chunks\\0pqt~8bl3ukh4.js",
       ".next\\static\\chunks\\0c5_hmud9~ldz.js",
@@ -99,11 +99,11 @@
   },
   {
     "route": "/settings",
-    "firstLoadUncompressedJsBytes": 525237,
+    "firstLoadUncompressedJsBytes": 525001,
     "firstLoadChunkPaths": [
       ".next\\static\\chunks\\01xlw8hd842-c.js",
       ".next\\static\\chunks\\0d3shmwh5_nmn.js",
-      ".next\\static\\chunks\\0c87fe1sh64bt.js",
+      ".next\\static\\chunks\\073sk.z4owrk5.js",
       ".next\\static\\chunks\\00gq-v0e07i1q.js",
       ".next\\static\\chunks\\0pqt~8bl3ukh4.js",
       ".next\\static\\chunks\\0c5_hmud9~ldz.js",
